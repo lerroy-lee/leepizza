@@ -10,16 +10,21 @@ background-repeat: no-repeat;
 }
 .intro{
   text-align: center;
-  color: beige;
+  color: orangered;
   font-size: large;
   padding-left: 20px;
   padding-right: 20px;
 }
 .ourmenu{
-  background-image: url(../img/National-Pizza-Day.jpg);
+  background-image: url(../img/menup.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   text-align: center;
   color:white;
   font-size: x-large;
+}
+.topping{
+    height: 200px;
+    max-width: auto;
+    position: center;
 }
