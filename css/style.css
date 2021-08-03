@@ -28,3 +28,21 @@ background-repeat: no-repeat;
     max-width: auto;
     position: center;
 }
+.order{
+  text-align: center;
+  color:black;
+}
+#order{
+  padding: 2rem;
+
+}
+#size{
+  padding: 2rem;
+
+}
+#quantity{
+  padding: 2rem;
+}
+.footer{
+  color:olivedrab;
+}
