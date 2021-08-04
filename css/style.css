@@ -36,15 +36,15 @@ background-repeat: no-repeat;
   color:black;
 }
 #order{
-  padding: 2rem;
+  padding: 1rem;
 
 }
 #size{
-  padding: 2rem;
+  padding: 0rem;
 
 }
 #quantity{
-  padding: 2rem;
+  padding: 1rem;
 }
 .social{
   text-align: center;
